@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'JinKM',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'NotionNoteBookSiteIndex',
 
   // social usernames (optional)
   twitter: '',
-  github: 'Jinkaiming',
+  github: '',
   linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
