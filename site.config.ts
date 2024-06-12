@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'a9fd7e0dce48496bba6fb7890692e714',
+  rootNotionPageId: '32c60d7244464ff49be94f3ea326b1a8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'JinKM技术笔记',
-  domain: 'https://app.yinxiang.com/fx/ababc888-091d-4ac2-8554-96351c5c3e40',
+  domain: 'https://curious-amber-9ea.notion.site/32c60d7244464ff49be94f3ea326b1a8?pvs=4',
   author: 'JinKM',
 
   // open graph metadata (optional)
