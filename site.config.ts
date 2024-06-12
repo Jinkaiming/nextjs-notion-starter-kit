@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'JinKM技术笔记',
-  domain: 'https://curious-amber-9ea.notion.site/a9fd7e0dce48496bba6fb7890692e714?v=a5a62ff6badc4c65ba39411c0057f14c&pvs=4',
+  domain: 'https://app.yinxiang.com/fx/ababc888-091d-4ac2-8554-96351c5c3e40',
   author: 'JinKM',
 
   // open graph metadata (optional)
